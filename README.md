@@ -1,12 +1,8 @@
-# portfolio-website
-
-A website to promote my portfolio
-
 # Frontend-Mentor - QR code component
 
 Solutions submitted for challenges provided by Frontend Mentor
 
-![Design preview for the QR code component coding challenge](./qr-code-component-main/qr-code-component-main/design/desktop-design.jpg)
+![Design preview for the QR code component coding challenge](/design/desktop-design.jpg)
 
 ## Welcome! 👋
 
